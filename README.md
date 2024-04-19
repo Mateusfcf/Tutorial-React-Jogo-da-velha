@@ -3,6 +3,9 @@
 
 ## Tecnologias utilizadas:
 - React
+- JS
+- HTML
+- CSS
 
 ## Para execultar o programa:
 - npm start my-app
